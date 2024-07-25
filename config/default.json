@@ -1,0 +1,17 @@
+{
+  "port": 3050,
+  "db_host": "localhost",
+  "db_username": "postgres",
+  "db_password": "root",
+  "db_name": "e-navbat",
+  "db_port": 5432,
+
+  "crypt_password": "Very_very_Secret_Password",
+  "iv": "28408e46",
+
+  "access_key": "MyAccessTokenSecretKey",
+  "refresh_key": "MyRefreshTokenSecretKey",
+  "access_time": "15s",
+  "refresh_time": "30s",
+  "refresh_ms": 186400000
+}
